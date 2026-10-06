@@ -1,0 +1,4 @@
+﻿.fide_page_cache/
+cache/
+__pycache__/
+*.py[cod]
